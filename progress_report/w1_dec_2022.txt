@@ -13,3 +13,5 @@ Week Summary
    https://github.com/nathanielwei/Research_Project_Feb_2023/wiki/Reading-Notes-and-Literature-Reviews
 2. Write a set up log on Github repo
 3. This is the progress report includes the weekly summary
+4. Additional
+   Comment unneccessary lines in the requirements.txt
