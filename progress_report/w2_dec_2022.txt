@@ -1,0 +1,27 @@
+Progress Report
+Week 2: 12-16 Dec 2022
+
+Plan 
+-----
+1. Replicate SSSD
+2. If the implementation of SSSD is hindered by some difficulties, then refer to:
+   * DiffWave https://github.com/philsyn/DiffWave-Vocoder, and 
+   * Structure state space https://github.com/HazyResearch/state-spaces
+3. Downloading the Data and run the data instruction code https://github.com/AI4HealthUOL/SSSD/tree/main/docs/instructions
+4. Know how to implement CSDI and DiffWave in https://github.com/AI4HealthUOL/SSSD/tree/main/src/imputers
+5. Write a progress report on Github 
+
+Week Summary
+-----------
+1. Issues for downloading datasets 
+   1) issue about "cannot import name Mega from mega"
+      * pip3 uninstall mega
+      * pip3 install mega.py
+   2) after "pip3 install mega.py", the data can be download from the mega
+
+
+Appendix
+--------
+Additional documneets can be found on 
+   https://github.com/nathanielwei/Research_Project_Feb_2023/wiki/Reading-Notes-and-Literature-Reviews
+
