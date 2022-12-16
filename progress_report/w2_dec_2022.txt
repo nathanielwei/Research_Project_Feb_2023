@@ -1,6 +1,8 @@
 Progress Report
 Week 2: 12-16 Dec 2022
 
+This week:
+Need extra time to do the project on Sat and Sun
 Plan 
 -----
 1. Replicate SSSD
@@ -18,7 +20,7 @@ Week Summary
       * pip3 uninstall mega
       * pip3 install mega.py
    2) after "pip3 install mega.py", the data can be download from the mega
-
+2. Data downloaded
 
 Appendix
 --------
